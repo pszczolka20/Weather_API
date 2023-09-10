@@ -1,0 +1,1 @@
+## This projects is the API for the historical data of the temperature for 100 different cites acoss Europe. 
